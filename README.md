@@ -23,3 +23,6 @@ Este é um projeto de programação orientada a objetos desenvolvido por Davi Qu
 
    ```bash
    git clone https://github.com/seu-usuario/seu-projeto.git
+
+## Diagrama de Classes
+![Diagrama](Diagrama.png)
